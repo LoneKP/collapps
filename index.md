@@ -1,0 +1,19 @@
+---
+layout: default
+title: "Front page"
+---
+<div class="flex items-center justify-center h-screen">
+  <div class="max-w-xl text-center font-karla text-white ">
+    <h1 class="text-xl mb-20">
+      <span class="text-9xl block">
+        Collapps
+      </span>
+    </h1>
+    <div class="font-inconsolata">
+      <h2 class="text-2xl mb-4 text-white">Just <a class="underline cursor-pointer" target="_blank" href="https://twitter.com/Lonekp">me</a> 🙋‍♀️</h2> 
+      <h2 class="text-2xl mb-4 text-white">helping people <span class="text-black bg-white font-bold mix-blend-screen">coll</span>aborate 🤲 </h2> 
+      <h2 class="text-2xl text-white">by building <span class="text-black bg-white font-bold mix-blend-screen">apps</span> 💻</h2>
+    </div> 
+  </div>
+</div>
+
