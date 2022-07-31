@@ -1,5 +1,5 @@
-url: 'lonekp.github.io'
-baseurl: '/collapps'
+url: ''
+baseurl: 'https://collapps.co'
 title: 'Collapps'
 
 plugins:
