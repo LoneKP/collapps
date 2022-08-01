@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Front page"
+title: "Collapps"
 ---
 <div class="flex items-center justify-center h-screen">
   <div class="max-w-xl text-center font-karla text-white ">
